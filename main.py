@@ -6,7 +6,7 @@ from openai import AsyncOpenAI
 
 # اینجا توکن ربات تلگرام و کلید OpenAI رو وارد کن
 TELEGRAM_TOKEN = "7156009984:AAFqU7EIjCE47ZYYETn1VXcrwNCVZQdHZsM"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # لاگ گیری فعال
 logging.basicConfig(level=logging.INFO)
